@@ -56,7 +56,11 @@ You can deploy this bot anywhere.
 </a>
 </p>
 </details>
+<a href="https://render.com/deploy?repo=https://github.com/Djddjsjdj/file-filter-botv5">
 
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
